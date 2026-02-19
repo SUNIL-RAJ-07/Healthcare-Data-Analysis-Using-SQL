@@ -4,7 +4,7 @@
 The goal of the project is to extract meaningful insights from hospital data including patients, doctors, appointments, and billing information.
 
 * The database contains four main tables:
-
+<a href="https://github.com/SUNIL-RAJ-07/Healthcare-Data-Analysis-Using-SQL/blob/main/patient_detials.csv">patient_detials table</a>
 
  Using SQL queries, I performed data analysis to understand patient behavior, doctor performance, revenue trends, and hospital operations.
 ##  What I Did (Process)
@@ -67,14 +67,14 @@ From this analysis, I found:
 * Doctors who do not have any appointments
 This analysis helps understand hospital performance, patient behavior, and revenue patterns.
 ## Final Conclusion
-This project helped me understand how SQL can be used to analyze real-world healthcare data.
-By using joins, grouping, and aggregate functions, I was able to combine multiple tables and generate meaningful insights about patients, doctors, and hospital revenue.
+* This project helped me understand how SQL can be used to analyze real-world healthcare data.
+* By using joins, grouping, and aggregate functions, I was able to combine multiple tables and generate meaningful insights about patients, doctors, and hospital revenue.
 The analysis shows:
-* How revenue is generated across cities and doctors
-* Patient visit patterns (new vs repeat patients)
-* Doctor performance based on revenue
-* Identification of high-value patients
-Overall, this project strengthened my understanding of relational databases, SQL queries, and data analysis concepts. It demonstrates how structured data can be transformed into useful business insights.
+ * How revenue is generated across cities and doctors
+ * Patient visit patterns (new vs repeat patients)
+ * Doctor performance based on revenue
+ * Identification of high-value patients
+* Overall, this project strengthened my understanding of relational databases, SQL queries, and data analysis concepts. It demonstrates how structured data can be transformed into useful business insights.
 
 
 
