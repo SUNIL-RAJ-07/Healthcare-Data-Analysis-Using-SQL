@@ -56,6 +56,8 @@ The goal of the project is to extract meaningful insights from hospital data inc
 * JOIN (INNER JOIN, LEFT JOIN)
 * Subqueries
 * Date functions
+## SQL Quries
+* <a href="https://github.com/SUNIL-RAJ-07/Healthcare-Data-Analysis-Using-SQL/blob/main/sql.finalproject.sql>View Quries</a>
 ## Project Insights
 From this analysis, I found:
 * Which cities generate the highest hospital revenue
