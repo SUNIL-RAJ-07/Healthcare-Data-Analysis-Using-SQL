@@ -7,6 +7,7 @@ The goal of the project is to extract meaningful insights from hospital data inc
   * <a href="https://github.com/SUNIL-RAJ-07/Healthcare-Data-Analysis-Using-SQL/blob/main/patient_detials.csv">patient_detials table</a>
   * <a href="https://github.com/SUNIL-RAJ-07/Healthcare-Data-Analysis-Using-SQL/blob/main/billing_detials.csv">billing_detials table</a>
   * <a href="https://github.com/SUNIL-RAJ-07/Healthcare-Data-Analysis-Using-SQL/blob/main/appointments.csv">appointments table</a>
+  * <a href="https://github.com/SUNIL-RAJ-07/Healthcare-Data-Analysis-Using-SQL/blob/main/doctors.csv">doctors table</a>
 
  Using SQL queries, I performed data analysis to understand patient behavior, doctor performance, revenue trends, and hospital operations.
 ##  What I Did (Process)
